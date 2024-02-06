@@ -1,5 +1,5 @@
 # Propuesta de sitio web para la gestión de reserva de canchas.
-Proyecto para asignatura Programación Avanzada (2020)
+Proyecto para asignatura Programación Avanzada (2021)
 
 ## Funcionalidad
 El proyecto presenta la implementación de un sitio web diseñado específicamente para satisfacer las necesidades
