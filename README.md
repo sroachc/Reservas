@@ -14,4 +14,4 @@ conjunto completo de herramientas CRUD, lo que le permitirá un control total so
 ### Screenshots
 ![image](https://github.com/sroachc/Reservas/assets/71527904/b7ef8b8d-3072-4694-b50b-aebc41af3f25)
 ![image](https://github.com/sroachc/Reservas/assets/71527904/d19074b0-a955-4944-b39d-126fccb3d00e)
-
+![image](https://github.com/sroachc/Reservas/assets/71527904/cd20f971-5a9c-430a-9c2f-4a381810eedd)
